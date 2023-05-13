@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> DATA </category>
+          <category> 数据结构 </category>
           
       </categories>
       
@@ -24,11 +24,17 @@
     
     <entry>
       <title>存储系统</title>
-      <link href="/2023/04/21/%E8%AE%A1%E7%BB%84/%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F/"/>
-      <url>/2023/04/21/%E8%AE%A1%E7%BB%84/%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F/</url>
+      <link href="/2023/04/21/%E8%AE%A1%E7%BB%84/CH3%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F/"/>
+      <url>/2023/04/21/%E8%AE%A1%E7%BB%84/CH3%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="基本概念"><a class="anchor" href="#基本概念">#</a> 基本概念</h1><p>存储器的层次结构<br />存储器的分类<br />存储器的性能指标</p><h2 id="层次结构"><a class="anchor" href="#层次结构">#</a> 层次结构</h2><p><img data-src="https://img1.imgtp.com/2023/05/13/yuYd3t96.jpg" alt="5.jpg" /></p><h2 id="分类"><a class="anchor" href="#分类">#</a> 分类</h2><h3 id="按层次"><a class="anchor" href="#按层次">#</a> 按层次</h3><p><img data-src="https://img1.imgtp.com/2023/05/13/Px4m7lcl.jpg" alt="4.jpg" /></p><h3 id="存储介质"><a class="anchor" href="#存储介质">#</a> 存储介质</h3><ul><li><ol><li>半导体存储器<br /> Cache、主存</li></ol></li><li><ol start="2"><li>磁表面存储器<br />磁盘、磁带<br /> (以磁性材料存储信息)</li></ol></li><li><ol start="3"><li>光存储器<br /> (以光介质存储信息)</li></ol></li></ul><h3 id="存取方式"><a class="anchor" href="#存取方式">#</a> 存取方式</h3><ol><li></li></ol><h2 id="性能指标"><a class="anchor" href="#性能指标">#</a> 性能指标</h2><h1 id=""><a class="anchor" href="#">#</a> </h1>]]></content>
       
+      
+      <categories>
+          
+          <category> 计组 </category>
+          
+      </categories>
       
       
     </entry>
